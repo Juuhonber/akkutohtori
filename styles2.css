@@ -4,8 +4,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #2f2f2f; /* Updated background color */
-    text-align: justify;
-    text-justify: inter-word;
 }
 
 /* Centered container for content */
@@ -15,6 +13,8 @@ body {
     background-color: #fff; /* Background color for the container */
     padding: 20px; /* Padding around the content */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow for depth */
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 /* Header styles */

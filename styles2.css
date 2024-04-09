@@ -11,7 +11,7 @@ body {
     width: 60%; /* Adjust width as needed */
     margin: 0 auto; /* Centers the container */
     background-color: #fff; /* Background color for the container */
-    padding: 20px; /* Padding around the content */
+    padding: 40px; /* Padding around the content */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow for depth */
     text-align: justify;
     text-justify: inter-word;
@@ -21,7 +21,7 @@ body {
 header {
     background-color: #333;
     color: white;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
 }
 

@@ -1,31 +1,31 @@
 /* Container for the entire CV */
-.cv-container {
+cv-container {
     font-family: Arial, sans-serif;
     color: #333;
     max-width: 800px;
 }
 
 /* Header section containing name and title */
-.header {
+header {
     background-color: #92A77E;
     color: white;
     padding: 20px;
 }
 
 /* Left sidebar for personal information */
-.sidebar-left {
+sidebar-left {
     float: left;
     width: 30%;
     background-color: #D9EAD3;
 }
 
 /* Right main content area for experience, education etc. */
-.main-content {
+main-content {
     float: right;
     width: 70%;
 }
 
 /* Individual section styling within main content area */
-.section {
+section {
    margin-bottom: 20px; 
 }
